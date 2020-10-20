@@ -1,0 +1,11 @@
+#radioBtn .notActive{
+    color: #3276b1;
+    background-color: #fff;
+}
+
+
+#myTimer {
+    font-size:18px ;
+    padding-top:20px;
+
+}

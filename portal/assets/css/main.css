@@ -1,0 +1,33 @@
+/*.sammy-nowrap-2 {*/
+/*	!*background-color: #e5e5e5;*!*/
+/*	max-width: 60%;*/
+/*	padding: 0.4em;*/
+/*	margin-bottom: .4em;*/
+/*	white-space: nowrap;*/
+/*	overflow: hidden;*/
+/*	text-overflow: ellipsis;*/
+/*	position: relative;*/
+/*	animation: mymove 5s infinite;*/
+/*}*/
+/*@keyframes mymove {*/
+/*	from{right:0px}*/
+/*	to{left: 100px*/
+/*	}*/
+
+/*}*/
+
+/*.sammy-nowrap-2 {*/
+/*	max-width: 200px;*/
+/*	padding: 0.4em;*/
+/*	margin-bottom: 0.4em;*/
+/*	white-space: nowrap;*/
+/*	overflow: hidden;*/
+/*	!*text-overflow: ellipsis;*!*/
+/*}*/
+/*.sammy-nowrap-2 :hover {*/
+/*	overflow:visible;*/
+/*}*/
+
+
+
+

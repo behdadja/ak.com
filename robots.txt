@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /portal/
+Sitemap: https://amoozkadeh.com/sitemap.xml
